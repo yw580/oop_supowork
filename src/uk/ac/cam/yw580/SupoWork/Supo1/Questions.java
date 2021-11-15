@@ -1,6 +1,6 @@
-package uk.ac.cam.yw580.SupoWork;
+package uk.ac.cam.yw580.SupoWork.Supo1;
 
-public class Supo1 {
+public class Questions {
     //Q5
     //Tail-Recursion Test
     public static void tailRecursionTest() {

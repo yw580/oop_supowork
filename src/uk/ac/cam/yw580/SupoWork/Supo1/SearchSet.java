@@ -1,4 +1,4 @@
-package uk.ac.cam.yw580.SupoWork;
+package uk.ac.cam.yw580.SupoWork.Supo1;
 
 public class SearchSet {
 
