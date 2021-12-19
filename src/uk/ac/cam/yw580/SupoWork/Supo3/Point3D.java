@@ -1,7 +1,5 @@
 package uk.ac.cam.yw580.SupoWork.Supo3;
 
-import java.util.Comparator;
-
 public class Point3D implements Comparable<Point3D>{
 
     public final int x;
